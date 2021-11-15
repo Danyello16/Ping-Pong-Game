@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1592314198 source:c:\users\daniel\desktop\exam\exam\iplayer.cpp
+	<iostream>
+	<stdexcept>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"IPlayer.h"
+	"PlayerA.h"
+	"PlayerB.h"
+
+1592315355 c:\users\daniel\desktop\exam\exam\iplayer.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1592315167 c:\users\daniel\desktop\exam\exam\playera.h
+	"IPlayer.h"
+
+1592315168 c:\users\daniel\desktop\exam\exam\playerb.h
+	"IPlayer.h"
+
+1592314991 source:c:\users\daniel\desktop\exam\exam\main.cpp
+	<iostream>
+	<stdexcept>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"IPlayer.h"
+	"PlayerA.h"
+	"PlayerB.h"
+
+1592315522 source:c:\users\daniel\desktop\exam\exam\playerb.cpp
+	<iostream>
+	<stdexcept>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"IPlayer.h"
+	"PlayerA.h"
+	"PlayerB.h"
+
+1592315499 source:c:\users\daniel\desktop\exam\exam\playera.cpp
+	<iostream>
+	<stdexcept>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"IPlayer.h"
+	"PlayerA.h"
+	"PlayerB.h"
+
